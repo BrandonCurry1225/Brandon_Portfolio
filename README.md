@@ -1,6 +1,6 @@
 # Brandon_Portfolio
 I am an aspiring Data Scientist with a passion for solving real-word problems that involve data exploration and machine learning applications.
-# Project 1: Heart Failure Predictor: Project Overview
+# [Project 1: Heart Failure Predictor: Project Overview](https://github.com/BrandonCurry1225/Brandon_Portfolio)
 * Open-Source Machine Learning project from Kaggle
 * Created a Deep Learning classification model that predicts whether a person will experience heart failure, based on a patient's data on medical characteristics.
 * Utilizied Python Data Science libraries such as NumPy, Pandas, Seaborn, Matplotlib, and the deep learning framework Tensorflow.
