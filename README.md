@@ -23,3 +23,9 @@ I am an aspiring Data Scientist with a passion for solving real-word problems th
 * Used the ML Random Forest model to predict the likelihood of a borrower paying back a loan with datasets of each borrower's credit history and FICO score.
 * Used Python Data Science libraries such as NumPy, Pandas, Seaborn, Matplotlib, and SKLearn.
 * Performed data exploration and feature engineering to obtain a cleaner dataset capable of producing a more accurate prediction of a borrower.
+
+# [Project 5: Vehicle Detection with OpenCV: Project Overview](https://github.com/BrandonCurry1225/Brandon_Portfolio)
+* Used the Large Vehicle Dataset 
+* dd
+* d
+* e
