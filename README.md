@@ -11,3 +11,15 @@ I am an aspiring Data Scientist with a passion for solving real-word problems th
 * Utilized various Deep Learning methods to predict a certain type of avocado based on region and measurable features.
 * Used Python Data Science libraries such as NumPy, Pandas, Seaborn, Matplotlib, and the framework Tensorflow.
 * Performed data exploration and feature engineering to improve the overall performance of the model.
+
+# [Project 3: NLP Sentiment Analysis on Reviews: Project Overview](https://github.com/BrandonCurry1225/Brandon_Portfolio)
+* Obtained real-world data of movie reviews and Amazon product reviews.
+* Used the VADER model to iterate through every review and give a sentiment score describing whether the review was predicted as negative or positive.
+* Used Python Natural Language Processing libraries such as NumPy, Pandas, and NLTK.
+* Performed feature extraction and utilized the Sentiment Intensity Analyzer.
+
+# [Project 4: Borrower trustworthiness by FICO Score: Project Overview](https://github.com/BrandonCurry1225/Brandon_Portfolio)
+* Artifical Borrowers Credit Information Dataset given by online instructor.
+* Used the ML Random Forest model to predict the likelihood of a borrower paying back a loan with datasets of each borrower's credit history and FICO score.
+* Used Python Data Science libraries such as NumPy, Pandas, Seaborn, Matplotlib, and SKLearn.
+* Performed data exploration and feature engineering to obtain a cleaner dataset capable of producing a more accurate prediction of a borrower.
