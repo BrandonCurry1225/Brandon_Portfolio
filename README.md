@@ -12,7 +12,7 @@ I am an aspiring Data Scientist with a passion for solving real-word problems th
 * Used Python Data Science libraries such as NumPy, Pandas, Seaborn, Matplotlib, and the framework Tensorflow.
 * Performed data exploration and feature engineering to improve the overall performance of the model.
 
-# [Project 3: NLP Sentiment Analysis on Reviews: Project Overview](https://github.com/BrandonCurry1225/Brandon_Portfolio)
+# [Project 3: NLP Sentiment Analysis on Reviews: Project Overview](https://github.com/BrandonCurry1225/NLP-Sentiment-Analysis-/blob/main/NLPSentimentAnalysis.pdf)
 * Obtained real-world data of movie reviews and Amazon product reviews.
 * Used the VADER model to iterate through every review and give a sentiment score describing whether the review was predicted as negative or positive.
 * Used Python Natural Language Processing libraries such as NumPy, Pandas, and NLTK.
