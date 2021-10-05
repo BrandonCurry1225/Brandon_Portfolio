@@ -1,5 +1,7 @@
 # Brandon_Portfolio
 I am an aspiring Data Scientist with a passion for solving real-word problems that involve data exploration and machine learning applications.
+# [Technical Certifications](https://github.com/BrandonCurry1225/Technical-Certifications/blob/main/Technical%20Certifications.pdf)
+
 # [Project 1: Heart Failure Predictor: Project Overview](https://github.com/BrandonCurry1225/Heart-Failure-Prediction-Model/blob/main/HeartFailurePredictionModel.pdf)
 * Open-Source Machine Learning project from Kaggle
 * Created a Deep Learning classification model that predicts whether a person will experience heart failure, based on a patient's data on medical characteristics.
