@@ -1,5 +1,5 @@
 # Brandon_Portfolio
-I am an aspiring Data Scientist with a passion for solving real-word problems that involve data exploration and machine learning applications. I have experience working with common ML modeling such as Linear Regression, Logistic Regression, K Means Clustering, Support Vector Machines, Random Forests, and used deep learning neural networks such as CNNs and RNNs to put meaning into data and use data visualization to tell a story. 
+I am an aspiring Data Scientist with a passion for solving real-word problems that involve data exploration and machine learning applications. I have experience working with common ML modeling such as Linear Regression, Logistic Regression, K Means Clustering, Support Vector Machines, Random Forests, and used deep learning neural networks such as CNNs and RNNs to put meaning into data and use data visualization tools like Power BI and Tableau to tell a story. 
 # [- Technical Certifications -](https://github.com/BrandonCurry1225/Technical-Certifications/blob/main/Technical%20Certifications.pdf)
 
 # [Project 1: Heart Failure Predictor: Project Overview](https://github.com/BrandonCurry1225/Heart-Failure-Prediction-Model/blob/main/HeartFailurePredictionModel.pdf)
