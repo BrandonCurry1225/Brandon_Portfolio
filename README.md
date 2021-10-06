@@ -11,19 +11,26 @@
 * Utilizied Python Data Science libraries such as NumPy, Pandas, Seaborn, Matplotlib, and the deep learning framework Tensorflow.
 * Explored and implimented optimal tuning of callbacks and early stopping to show how the model's performance changed overtime.
 
-# [Project 2: Avocado Type Classifier: Project Overview](https://github.com/BrandonCurry1225/Avocado-Type-Prediction-Project/blob/main/AvocadoTypeClassification.pdf)
+# [Project 2: Loan Prediction Analysis by Credit Score: Project Overview](https://github.com/BrandonCurry1225/Loan-Prediction-with-ML/blob/main/LoanPredictionModel.pdf)
+* An open-source Credit and Loan Information Dataset from Kaggle.
+* Mainly used the ML Random Forest model to predict the likelihood of a borrower paying back a loan with datasets of each borrower's credit history and total income.
+* Used Python Data Science libraries such as NumPy, Pandas, Seaborn, Matplotlib, and SKLearn.
+* Performed data exploration and feature engineering to obtain a cleaner dataset capable of producing a more accurate prediction of a borrower.
+* Used different models such as Logistic Regression, Decision Tree, Random Forest, and Extra Tree Classifier to find which suited best.
+
+# [Project 3: Avocado Type Classifier: Project Overview](https://github.com/BrandonCurry1225/Avocado-Type-Prediction-Project/blob/main/AvocadoTypeClassification.pdf)
 * Another Open-Source Machine Learning project from Kaggle
 * Utilized various Deep Learning methods to predict a certain type of avocado based on region and measurable features.
 * Used Python Data Science libraries such as NumPy, Pandas, Seaborn, Matplotlib, and the framework Tensorflow.
 * Performed data exploration and feature engineering to improve the overall performance of the model.
 
-# [Project 3: NLP Sentiment Analysis on Reviews: Project Overview](https://github.com/BrandonCurry1225/NLP-Sentiment-Analysis-/blob/main/NLPSentimentAnalysis.pdf)
+# [Project 4: NLP Sentiment Analysis on Reviews: Project Overview](https://github.com/BrandonCurry1225/NLP-Sentiment-Analysis-/blob/main/NLPSentimentAnalysis.pdf)
 * Obtained real-world data of movie reviews and Amazon product reviews.
 * Used the VADER model to iterate through every review and give a sentiment score describing whether the review was predicted as negative or positive.
 * Used Python Natural Language Processing libraries such as NumPy, Pandas, and NLTK.
 * Performed feature extraction and utilized the Sentiment Intensity Analyzer.
 
-# [Project 4: Loan Prediction Analysis by Credit Score: Project Overview](https://github.com/BrandonCurry1225/Loan-Prediction-with-ML/blob/main/LoanPredictionModel.pdf)
+# [Project 5: 200 Best Horror Movies with BeautifulSoup: Project Overview](https://github.com/BrandonCurry1225/Loan-Prediction-with-ML/blob/main/LoanPredictionModel.pdf)
 * An open-source Credit and Loan Information Dataset from Kaggle.
 * Mainly used the ML Random Forest model to predict the likelihood of a borrower paying back a loan with datasets of each borrower's credit history and total income.
 * Used Python Data Science libraries such as NumPy, Pandas, Seaborn, Matplotlib, and SKLearn.
