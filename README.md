@@ -23,7 +23,7 @@
 * Used Python Natural Language Processing libraries such as NumPy, Pandas, and NLTK.
 * Performed feature extraction and utilized the Sentiment Intensity Analyzer.
 
-# [Project 4: Loan Prediction Analysis by Credit Score: Project Overview](https://github.com/BrandonCurry1225/Brandon_Portfolio)
+# [Project 4: Loan Prediction Analysis by Credit Score: Project Overview](https://github.com/BrandonCurry1225/Loan-Prediction-with-ML/blob/main/LoanPredictionModel.pdf)
 * Artifical Borrowers Credit Information Dataset given by online instructor.
 * Used the ML Random Forest model to predict the likelihood of a borrower paying back a loan with datasets of each borrower's credit history and FICO score.
 * Used Python Data Science libraries such as NumPy, Pandas, Seaborn, Matplotlib, and SKLearn.
