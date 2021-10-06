@@ -30,8 +30,8 @@
 * Used Python Natural Language Processing libraries such as NumPy, Pandas, and NLTK.
 * Performed feature extraction and utilized the Sentiment Intensity Analyzer.
 
-# [Project 5: 200 Best Horror Movies with BeautifulSoup: Project Overview](https://github.com/BrandonCurry1225/Loan-Prediction-with-ML/blob/main/LoanPredictionModel.pdf)
-* An open-source Credit and Loan Information Dataset from Kaggle.
+# [Project 5: 200 Best Horror Movies with BeautifulSoup: Project Overview](https://github.com/BrandonCurry1225/200-Best-Horror-Movies-with-BeautifulSoup/blob/main/200HorrorMoviesProject.pdf)
+* [Completed Excel File can be found here]( )
 * Mainly used the ML Random Forest model to predict the likelihood of a borrower paying back a loan with datasets of each borrower's credit history and total income.
 * Used Python Data Science libraries such as NumPy, Pandas, Seaborn, Matplotlib, and SKLearn.
 * Performed data exploration and feature engineering to obtain a cleaner dataset capable of producing a more accurate prediction of a borrower.
