@@ -31,7 +31,8 @@
 * Performed feature extraction and utilized the Sentiment Intensity Analyzer.
 
 # [Project 5: 200 Best Horror Movies with BeautifulSoup: Project Overview](https://github.com/BrandonCurry1225/200-Best-Horror-Movies-with-BeautifulSoup/blob/main/200HorrorMoviesProject.pdf)
-* [Completed Excel File can be found here](https://github.com/BrandonCurry1225/200-Best-Horror-Movies-with-BeautifulSoup/blob/main/movies_info.xlsx)
+* Rotton Tomatoes page that I web scrapped: [here](https://editorial.rottentomatoes.com/guide/best-horror-movies-of-all-time/)
+* [Completed Excel File can be found here.](https://github.com/BrandonCurry1225/200-Best-Horror-Movies-with-BeautifulSoup/blob/main/movies_info.xlsx)
 * Mainly used the ML Random Forest model to predict the likelihood of a borrower paying back a loan with datasets of each borrower's credit history and total income.
 * Used Python Data Science libraries such as NumPy, Pandas, Seaborn, Matplotlib, and SKLearn.
 * Performed data exploration and feature engineering to obtain a cleaner dataset capable of producing a more accurate prediction of a borrower.
