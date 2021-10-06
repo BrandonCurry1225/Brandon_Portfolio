@@ -24,7 +24,8 @@
 * Performed feature extraction and utilized the Sentiment Intensity Analyzer.
 
 # [Project 4: Loan Prediction Analysis by Credit Score: Project Overview](https://github.com/BrandonCurry1225/Loan-Prediction-with-ML/blob/main/LoanPredictionModel.pdf)
-* Artifical Borrowers Credit Information Dataset given by online instructor.
-* Used the ML Random Forest model to predict the likelihood of a borrower paying back a loan with datasets of each borrower's credit history and FICO score.
+* An open-source Credit and Loan Information Dataset from Kaggle.
+* Mainly used the ML Random Forest model to predict the likelihood of a borrower paying back a loan with datasets of each borrower's credit history and total income.
 * Used Python Data Science libraries such as NumPy, Pandas, Seaborn, Matplotlib, and SKLearn.
 * Performed data exploration and feature engineering to obtain a cleaner dataset capable of producing a more accurate prediction of a borrower.
+* Used different models such as Logistic Regression, Decision Tree, Random Forest, and Extra Tree Classifier to find which suited best.
