@@ -31,12 +31,12 @@
 * Used Python Natural Language Processing libraries such as NumPy, Pandas, and NLTK.
 * Performed feature extraction and utilized the Sentiment Intensity Analyzer.
 
-# [Project 5: 200 Best Horror Movies with BeautifulSoup: Project Overview](https://github.com/BrandonCurry1225/200-Best-Horror-Movies-with-BeautifulSoup/blob/main/200HorrorMoviesProject.pdf)
+# [Project 5: Best Horror Movies with BeautifulSoup: Project Overview](https://github.com/BrandonCurry1225/200-Best-Horror-Movies-with-BeautifulSoup/blob/main/200HorrorMoviesProject.pdf)
 * [Original Rotton Tomatoes Page:](https://editorial.rottentomatoes.com/guide/best-horror-movies-of-all-time/)
 * [Completed Excel File can be found here.](https://github.com/BrandonCurry1225/200-Best-Horror-Movies-with-BeautifulSoup/blob/main/movies_info.xlsx)
 * Grabbed offcial website HTML information from Rotten Tomatoes and created a dataset by web scraping.
 * Used Python Data Science libraries such as Pandas, Beautiful Soup, and the data software Microsoft Excel.
-* Pulled out information such as movie title, year release, critic score, director, description and cast.
+* Pulled out 200 layers of information such as movie title, year release, critic score, director, description and cast.
 
 # [Project 6: Student Performances on Exams: Project Overview](https://github.com/BrandonCurry1225/Student-Performances-on-Exam/blob/main/StudentPerformancesExam.pdf)
 * Open-Source Machine Learning project from Kaggle
