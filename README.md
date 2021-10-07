@@ -3,7 +3,7 @@
 * I have experience working with common ML modeling such as Linear Regression, Logistic Regression, K Means Clustering, Support Vector Machines, Random Forests, and used deep learning neural networks such as CNNs and RNNs to put meaning into data and use data visualization tools like Power BI and Tableau to tell a story. 
 * I have basic experience with other deep learning applications such as Computer Vision and Natural Language Processing, but am passionate to expand my knowledge in these fields and put them into meaningful work.
 
-# [- Technical Certifications -](https://github.com/BrandonCurry1225/Technical-Certifications/blob/main/Technical%20Certifications.pdf)
+# [- TECHNICAL CERTIFICATIONS HERE -](https://github.com/BrandonCurry1225/Technical-Certifications/blob/main/Technical%20Certifications.pdf)
 
 # [Project 1: Heart Failure Predictor: Project Overview](https://github.com/BrandonCurry1225/Heart-Failure-Prediction-Model/blob/main/HeartFailurePredictionModel.pdf)
 * Open-Source Machine Learning project from Kaggle
