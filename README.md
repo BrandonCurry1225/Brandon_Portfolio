@@ -38,8 +38,8 @@
 * Used Python Data Science libraries such as Pandas, Beautiful Soup, and the data software Microsoft Excel.
 * Pulled out information such as movie title, year release, critic score, director, description and cast.
 
-# [Project 6: Student Performances on Exams: Project Overview]
+# [Project 6: Student Performances on Exams: Project Overview](https://github.com/BrandonCurry1225/Student-Performances-on-Exam/blob/main/StudentPerformancesExam.pdf)
 * Open-Source Machine Learning project from Kaggle
-* Created a Deep Learning classification model that predicts whether a person will experience heart failure, based on a patient's data on medical characteristics.
+* Created a Deep Learning classification model that redicts if a student took a preparation course based on their test scores, gender, and ethnicity.
 * Utilizied Python Data Science libraries such as NumPy, Pandas, Seaborn, Matplotlib, and the deep learning framework Tensorflow.
-* Explored and implimented optimal tuning of callbacks and early stopping to show how the model's performance changed overtime.
+* Converted a dataset mostly consisting of categorical values and convert them into numerical values, and used callbacks and early stopping to improve model.
