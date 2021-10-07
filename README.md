@@ -2,6 +2,7 @@
 * I am an aspiring data explorer with a passion for solving real-word problems that involve data exploration and machine learning applications. 
 * I have experience working with common ML modeling such as Linear Regression, Logistic Regression, K Means Clustering, Support Vector Machines, Random Forests, and used deep learning neural networks such as CNNs and RNNs to put meaning into data and use data visualization tools like Power BI and Tableau to tell a story. 
 * I have basic experience with other deep learning applications such as Computer Vision and Natural Language Processing, but am passionate to expand my knowledge in these fields and put them into meaningful work.
+* I will be actively including more projects every week into my portfolio that cover a wide variety of skills. 
 
 # [- TECHNICAL CERTIFICATIONS HERE -](https://github.com/BrandonCurry1225/Technical-Certifications/blob/main/Technical%20Certifications.pdf)
 
