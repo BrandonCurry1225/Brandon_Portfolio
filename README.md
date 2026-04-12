@@ -1,5 +1,5 @@
 # Brandon Curry SE Portfolio
-* I am an aspiring software engineer with a passion for solving real-word problems that involve the deployment of complex software systems.
+* I am an aspiring software engineer / machine-learning engineer with a passion for solving real-word problems that involve the deployment of complex software systems.
 * Experience with Object-Oriented programming languages such as Python, Java, and C++.
 * Experience utilizing common software development IDEs such as Visual Studio, IntelliJ, Eclipse, and PyCharm.
 * Experience working with common ML modeling such as Linear Regression, Logistic Regression, K Means Clustering, Support Vector Machines, Random Forests, and used deep learning neural networks such as CNNs and RNNs to put meaning into data and use data visualization tools like Power BI and Microsoft Excel to tell a story. 
