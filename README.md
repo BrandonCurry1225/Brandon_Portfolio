@@ -1,4 +1,4 @@
-# Brandon_Portfolio
+# Brandon Curry SE Portfolio
 * I am an aspiring software engineer with a passion for solving real-word problems that involve the deployment of complex software systems.
 * Experience with Object-Oriented programming languages such as Python, Java, and C++.
 * Experience utilizing common software development IDEs such as Visual Studio, IntelliJ, Eclipse, and PyCharm.
