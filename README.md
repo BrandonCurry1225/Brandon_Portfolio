@@ -4,7 +4,7 @@
 * Experience utilizing common software development IDEs such as Visual Studio, IntelliJ, Eclipse, and PyCharm.
 * Experience working with common ML modeling such as Linear Regression, Logistic Regression, K Means Clustering, Support Vector Machines, Random Forests, and used deep learning neural networks such as CNNs and RNNs to put meaning into data and use data visualization tools like Power BI and Microsoft Excel to tell a story. 
 * Fundamental knowledge of other deep learning applications such as Computer Vision and Natural Language Processing, but am passionate to expand my knowledge in these fields and put them into meaningful work.
-* I also currently hold an AA degree in Mathematics. 
+* I also currently hold an AA degree in Mathematics and am actively working towards a bachelor's degree in Software Engineering from Embry-Riddle Aeronautical University. 
 
 # [- EXTRA TECHNICAL CERTIFICATIONS HERE -](https://github.com/BrandonCurry1225/Technical-Certifications/blob/main/Technical%20Certifications.pdf)
 
