@@ -18,7 +18,7 @@
   * Binary Search Trees (BST) for making book recommendations to library users.
   * Stacks for logging in user interactions with the system in real-time.
 
- # [Project 2: Smart Digital Home System]()
+ # [Project 2: Smart Digital Home System](https://github.com/BrandonCurry1225/DigitalHomeSystem)
 * 
 
 # [Project 3: Lane Detection with OpenCV: Project Overview](https://github.com/BrandonCurry1225/Lane-Detection-Project-OpenCV/blob/master/main.py)
