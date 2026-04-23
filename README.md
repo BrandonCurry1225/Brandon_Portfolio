@@ -18,13 +18,13 @@
   * Binary Search Trees (BST) for making book recommendations to library users.
   * Stacks for logging in user interactions with the system in real-time.
 
- # [Project 2: Smart Digital Home System with C++](https://github.com/BrandonCurry1225/DigitalHomeSystem)
-* 
-
-# [Project 3: Lane Detection with OpenCV: Project Overview](https://github.com/BrandonCurry1225/Lane-Detection-Project-OpenCV/blob/master/main.py)
+# [Project 2: Lane Detection with OpenCV: Project Overview](https://github.com/BrandonCurry1225/Lane-Detection-Project-OpenCV/blob/master/main.py)
 * Utilized Python OpenCV, with NumPy and Matplotlib libraries for lane detection in real-time.
 * Employed the use of a gaussian blur for creating smoothing effects, while using Hough Line Transform to detect straight lines between frames of a video.
 * Used the Visual Studio IDE for writing the project's code and for testing.
+
+ # [Project 3: Smart Digital Home System with C++](https://github.com/BrandonCurry1225/DigitalHomeSystem)
+* 
 
 # [Project 4: Heart Failure Predictor: Project Overview](https://github.com/BrandonCurry1225/Heart-Failure-Prediction-Model/blob/main/HeartFailurePredictionModel.pdf)
 * Open-Source Machine Learning project from Kaggle
