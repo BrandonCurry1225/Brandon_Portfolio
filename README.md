@@ -8,7 +8,10 @@
 
 # [- EXTRA TECHNICAL CERTIFICATIONS HERE -](https://github.com/BrandonCurry1225/Technical-Certifications/blob/main/Technical%20Certifications.pdf)
 
-# [Project 1: Smart Library Managmenet System](https://github.com/BrandonCurry1225/SmartLibraryManagementSystem/blob/038455d02be3cd2ae7e4d9393782ccf0c7db6cae/SmartLibraryManagementSystem.cpp)
+# [Project 1: Smart Library Managmenet System]()
+* 
+
+ # [Project 2: Smart Digital Home System](https://github.com/BrandonCurry1225/SmartLibraryManagementSystem/blob/038455d02be3cd2ae7e4d9393782ccf0c7db6cae/SmartLibraryManagementSystem.cpp)
 * The Library management System is a C++ application written in the Visual Studio IDE that simulates key operations of a library.
 * Object-Oriented Programming implemented to write classes that can create user account objects and new books.
 * Application utilizes various data structures to organize user interactions and book operations:
@@ -17,6 +20,8 @@
   * Queues for tracking checked-out books.
   * Binary Search Trees (BST) for making book recommendations to library users.
   * Stacks for logging in user interactions with the system in real-time.
+
+ 
 
 # [Project 2: Lane Detection with OpenCV: Project Overview](https://github.com/BrandonCurry1225/Lane-Detection-Project-OpenCV/blob/master/main.py)
 * Utilized Python OpenCV, with NumPy and Matplotlib libraries for lane detection in real-time.
