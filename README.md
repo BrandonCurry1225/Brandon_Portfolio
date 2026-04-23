@@ -8,10 +8,7 @@
 
 # [- EXTRA TECHNICAL CERTIFICATIONS HERE -](https://github.com/BrandonCurry1225/Technical-Certifications/blob/main/Technical%20Certifications.pdf)
 
-# [Project 1: Smart Library Managmenet System]()
-* 
-
- # [Project 2: Smart Digital Home System](https://github.com/BrandonCurry1225/SmartLibraryManagementSystem/blob/038455d02be3cd2ae7e4d9393782ccf0c7db6cae/SmartLibraryManagementSystem.cpp)
+# [Project 1: Smart Library Managmenet System](https://github.com/BrandonCurry1225/SmartLibraryManagementSystem/blob/038455d02be3cd2ae7e4d9393782ccf0c7db6cae/SmartLibraryManagementSystem.cpp)
 * The Library management System is a C++ application written in the Visual Studio IDE that simulates key operations of a library.
 * Object-Oriented Programming implemented to write classes that can create user account objects and new books.
 * Application utilizes various data structures to organize user interactions and book operations:
@@ -21,46 +18,47 @@
   * Binary Search Trees (BST) for making book recommendations to library users.
   * Stacks for logging in user interactions with the system in real-time.
 
- 
+ # [Project 2: Smart Digital Home System]()
+* 
 
-# [Project 2: Lane Detection with OpenCV: Project Overview](https://github.com/BrandonCurry1225/Lane-Detection-Project-OpenCV/blob/master/main.py)
+# [Project 3: Lane Detection with OpenCV: Project Overview](https://github.com/BrandonCurry1225/Lane-Detection-Project-OpenCV/blob/master/main.py)
 * Utilized Python OpenCV, with NumPy and Matplotlib libraries for lane detection in real-time.
 * Employed the use of a gaussian blur for creating smoothing effects, while using Hough Line Transform to detect straight lines between frames of a video.
 * Used the Visual Studio IDE for writing the project's code and for testing.
 
-# [Project 3: Heart Failure Predictor: Project Overview](https://github.com/BrandonCurry1225/Heart-Failure-Prediction-Model/blob/main/HeartFailurePredictionModel.pdf)
+# [Project 4: Heart Failure Predictor: Project Overview](https://github.com/BrandonCurry1225/Heart-Failure-Prediction-Model/blob/main/HeartFailurePredictionModel.pdf)
 * Open-Source Machine Learning project from Kaggle
 * Created a Deep Learning classification model that predicts whether a person will experience heart failure, based on a patient's data on medical characteristics.
 * Utilizied Python Data Science libraries such as NumPy, Pandas, Seaborn, Matplotlib, and the deep learning framework Tensorflow.
 * Explored and implimented optimal tuning of callbacks and early stopping to show how the model's performance changed overtime.
 
-# [Project 4: Loan Prediction Analysis by Credit Score: Project Overview](https://github.com/BrandonCurry1225/Loan-Prediction-with-ML/blob/main/LoanPredictionModel.pdf)
+# [Project 5: Loan Prediction Analysis by Credit Score: Project Overview](https://github.com/BrandonCurry1225/Loan-Prediction-with-ML/blob/main/LoanPredictionModel.pdf)
 * An open-source Credit and Loan Information Dataset from Kaggle.
 * Mainly used the ML Random Forest model to predict the likelihood of a borrower paying back a loan with datasets of each borrower's credit history and total income.
 * Used Python Data Science libraries such as NumPy, Pandas, Seaborn, Matplotlib, and SKLearn.
 * Performed data exploration and feature engineering to obtain a cleaner dataset capable of producing a more accurate prediction of a borrower.
 * Used different models such as Logistic Regression, Decision Tree, Random Forest, and Extra Tree Classifier to find which suited best.
 
-# [Project 5: Avocado Type Classifier: Project Overview](https://github.com/BrandonCurry1225/Avocado-Type-Prediction-Project/blob/main/AvocadoTypeClassification.pdf)
+# [Project 6: Avocado Type Classifier: Project Overview](https://github.com/BrandonCurry1225/Avocado-Type-Prediction-Project/blob/main/AvocadoTypeClassification.pdf)
 * Another Open-Source Machine Learning project from Kaggle
 * Utilized various Deep Learning methods to predict a certain type of avocado based on region and measurable features.
 * Used Python Data Science libraries such as NumPy, Pandas, Seaborn, Matplotlib, and the framework Tensorflow.
 * Performed data exploration and feature engineering to improve the overall performance of the model.
 
-# [Project 6: NLP Sentiment Analysis on Reviews: Project Overview](https://github.com/BrandonCurry1225/NLP-Sentiment-Analysis-/blob/main/NLPSentimentAnalysis.pdf)
+# [Project 7: NLP Sentiment Analysis on Reviews: Project Overview](https://github.com/BrandonCurry1225/NLP-Sentiment-Analysis-/blob/main/NLPSentimentAnalysis.pdf)
 * Obtained real-world data of movie reviews and Amazon product reviews.
 * Used the VADER model to iterate through every review and give a sentiment score describing whether the review was predicted as negative or positive.
 * Used Python Natural Language Processing libraries such as NumPy, Pandas, and NLTK.
 * Performed feature extraction and utilized the Sentiment Intensity Analyzer.
 
-# [Project 7: Best Horror Movies with BeautifulSoup: Project Overview](https://github.com/BrandonCurry1225/200-Best-Horror-Movies-with-BeautifulSoup/blob/main/200HorrorMoviesProject.pdf)
+# [Project 8: Best Horror Movies with BeautifulSoup: Project Overview](https://github.com/BrandonCurry1225/200-Best-Horror-Movies-with-BeautifulSoup/blob/main/200HorrorMoviesProject.pdf)
 * [Original Rotton Tomatoes Page:](https://editorial.rottentomatoes.com/guide/best-horror-movies-of-all-time/)
 * [Completed Excel File can be found here.](https://github.com/BrandonCurry1225/200-Best-Horror-Movies-with-BeautifulSoup/blob/main/movies_info.xlsx)
 * Grabbed offcial website HTML information from Rotten Tomatoes and created a dataset by web scraping.
 * Used Python Data Science libraries such as Pandas, Beautiful Soup, and the data software Microsoft Excel.
 * Pulled out 200 layers of information such as movie title, year release, critic score, director, description and cast.
 
-# [Project 8: Student Performances on Exams: Project Overview](https://github.com/BrandonCurry1225/Student-Performances-on-Exam/blob/main/StudentPerformancesExam.pdf)
+# [Project 9: Student Performances on Exams: Project Overview](https://github.com/BrandonCurry1225/Student-Performances-on-Exam/blob/main/StudentPerformancesExam.pdf)
 * Open-Source Machine Learning project from Kaggle
 * Created a Deep Learning classification model that redicts if a student took a preparation course based on their test scores, gender, and ethnicity.
 * Utilizied Python Data Science libraries such as NumPy, Pandas, Seaborn, Matplotlib, and the deep learning framework Tensorflow.
