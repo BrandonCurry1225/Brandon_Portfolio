@@ -26,7 +26,7 @@
  # [Project 3: Smart Digital Home System with C++](https://github.com/BrandonCurry1225/DigitalHomeSystem)
 * The Smart Digital Home (DH) System is a small program written in C++ to help perform basic functions within the common household.
 * The system performs basic functions utilizing Object-Oriented Programming for lighting controls and scheduling, temperature sensor readings, and component tracking.
-* 
+* System allows users to toggle lighting operation and customize brightness settings, add new devices and monitor the status of sensors around the house.
 
 # [Project 4: Heart Failure Predictor: Project Overview](https://github.com/BrandonCurry1225/Heart-Failure-Prediction-Model/blob/main/HeartFailurePredictionModel.pdf)
 * Open-Source Machine Learning project from Kaggle
