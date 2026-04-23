@@ -8,6 +8,16 @@
 
 # [- EXTRA TECHNICAL CERTIFICATIONS HERE -](https://github.com/BrandonCurry1225/Technical-Certifications/blob/main/Technical%20Certifications.pdf)
 
+# [Project 1: Smart Library Managmenet System](https://github.com/BrandonCurry1225/SmartLibraryManagementSystem/blob/038455d02be3cd2ae7e4d9393782ccf0c7db6cae/SmartLibraryManagementSystem.cpp)
+* Library management system is a C++ application that simulates key operations of a library.
+* Object-Oriented Programming implemented to write classes that can create user account objects and new books.
+* Application utilizes various data structures to organize user interactions and book operations:
+  * Hash Table is implemented to help manage ISBN inventory.
+  * Doubly Linked List is utilized to store user accounts and information.
+  * Queues for tracking checked-out books.
+  * Binary Search Trees (BST) for making book recommendations to library users.
+  * Stacks for logging in user interactions with the system in real-time.
+
 # [Project 1: Lane Detection with OpenCV: Project Overview](https://github.com/BrandonCurry1225/Lane-Detection-Project-OpenCV/blob/master/main.py)
 * Utilized Python OpenCV, with NumPy and Matplotlib libraries for lane detection in real-time.
 * Employed the use of a gaussian blur for creating smoothing effects, while using Hough Line Transform to detect straight lines between frames of a video.
