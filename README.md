@@ -9,7 +9,7 @@
 # [- EXTRA TECHNICAL CERTIFICATIONS HERE -](https://github.com/BrandonCurry1225/Technical-Certifications/blob/main/Technical%20Certifications.pdf)
 
 # [Project 1: Smart Library Managmenet System](https://github.com/BrandonCurry1225/SmartLibraryManagementSystem/blob/038455d02be3cd2ae7e4d9393782ccf0c7db6cae/SmartLibraryManagementSystem.cpp)
-* Library management System is a C++ application written in the Visual Studio IDE that simulates key operations of a library.
+* The Library management System is a C++ application written in the Visual Studio IDE that simulates key operations of a library.
 * Object-Oriented Programming implemented to write classes that can create user account objects and new books.
 * Application utilizes various data structures to organize user interactions and book operations:
   * Hash Table is implemented to help manage ISBN inventory.
